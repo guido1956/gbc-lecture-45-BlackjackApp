@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4ca281d1-8edd-4d10-a835-79e99bf1264c" name="Default Changelist" comment="" />
+    <list default="true" id="4ca281d1-8edd-4d10-a835-79e99bf1264c" name="Default Changelist" comment="Guido Py toegevoegd&#10;Routine Guido() in blackjack.py">
+      <change beforePath="$PROJECT_DIR$/Guido.py" beforeDir="false" afterPath="$PROJECT_DIR$/Guido.py" afterDir="false" />
+    </list>
     <list id="ea6d0147-a787-45f0-95c7-db0324a9f60d" name="Guido Py toegevoegd Routine Guido() in blackjack.py" comment="Guido Py toegevoegd Routine Guido() in blackjack.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,6 +96,14 @@
       <option name="presentableId" value="Default" />
       <updated>1593070560443</updated>
     </task>
+    <task id="LOCAL-00001" summary="Guido Py toegevoegd&#10;Routine Guido() in blackjack.py">
+      <created>1593076307828</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1593076307828</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -130,10 +140,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="660" y="281" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1593073693090" />
-    <state x="357" y="4" key="CommitChangelistDialog2" timestamp="1593075545884">
+    <state x="357" y="0" key="CommitChangelistDialog2" timestamp="1593076520898">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="357" y="4" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593075545884" />
+    <state x="357" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1593076520898" />
     <state x="631" y="319" key="Github.Dialog.Accounts.Choose" timestamp="1593071600872">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
