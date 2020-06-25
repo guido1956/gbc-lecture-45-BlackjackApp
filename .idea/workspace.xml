@@ -19,11 +19,8 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c8b43d2f-a12b-4a04-9e99-a6a2100cd774" name="Default Changelist" comment="Guido Py toegevoegd&#10;Routine Guido() in blackjack.py">
-      <change afterPath="$PROJECT_DIR$/Guido.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blackjack.py" beforeDir="false" afterPath="$PROJECT_DIR$/blackjack.py" afterDir="false" />
-    </list>
+    <list default="true" id="4ca281d1-8edd-4d10-a835-79e99bf1264c" name="Default Changelist" comment="" />
+    <list id="ea6d0147-a787-45f0-95c7-db0324a9f60d" name="Guido Py toegevoegd Routine Guido() in blackjack.py" comment="Guido Py toegevoegd Routine Guido() in blackjack.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -119,6 +116,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
