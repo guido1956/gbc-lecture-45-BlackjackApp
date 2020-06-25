@@ -124,6 +124,7 @@ def shuffle():
 
 def Guido():
     print("hallo")
+    print("Dit is een test")
 
 mainWindow = tkinter.Tk()
 
